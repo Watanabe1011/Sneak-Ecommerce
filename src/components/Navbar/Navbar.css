@@ -1,0 +1,14 @@
+.links::after {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  height: 3px;
+  width: 100%;
+  background-color: hsl(26, 100%, 55%);
+  transition: all 500ms ease;
+  transform: scale(0, 1);
+}
+
+.links:hover::after {
+  transform: scale(1, 1);
+}
