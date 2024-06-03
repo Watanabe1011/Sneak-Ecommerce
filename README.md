@@ -33,13 +33,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/HiroshiWatanabe1011/Sneak-Ecommerce](https://github.com/HiroshiWatanabe1011/Sneak-Ecommerce)
+- Live Site URL: [https://ecommerce-product-beta.vercel.app/](https://ecommerce-product-beta.vercel.app/)
 
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:ErysCode7/countries-api.git
+   git clone 
    ```
 
 2. Install NPM packages
@@ -65,13 +65,5 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
-### Continued development
 
-I will build a Ecommerce web-app soon.
 
-## Author
-
-- Facebook - [Erys Mozo](https://web.facebook.com/erys.mozo/)
-- Instagram - [\_erysmozo](https://www.instagram.com/_erysmozo/)
-- Frontend Mentor - [ErysCode7](https://www.frontendmentor.io/profile/ErysCode7)
-- LinkedIn - [Erys Mozo](https://www.linkedin.com/in/erys-mozo-280190230/)
